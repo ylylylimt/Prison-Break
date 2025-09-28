@@ -22,3 +22,4 @@ For the *adventurous*:
 
 Play it for the atmosphere, stay for the frustration. Scofield would be proud. *Probably.*
 
+<img width="594" height="413" alt="image" src="https://github.com/user-attachments/assets/cccccd6a-1f56-47c3-af2e-c7c7ae04dfa3" />
