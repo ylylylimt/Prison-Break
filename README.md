@@ -1,11 +1,5 @@
 # Prison-Break
-*A maze-escape game built in Java using Processing.*
-
----
-
-## About the Game
-
-Unlike the hit FOX series of the same name, there are no cool tattoos, no dramatic conspiracies, and — tragically — no budget for Wentworth Miller.
+A maze-escape game built in Java using Processing. Unlike the hit FOX series of the same name, there are no cool tattoos, no dramatic conspiracies, and — tragically — no budget for Wentworth Miller.
 
 Instead, you play as a pixel-sized Michael Scofield armed with nothing but a flickering lighter and a questionable sense of direction.
 
