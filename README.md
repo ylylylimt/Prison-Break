@@ -9,7 +9,7 @@ The task is simple in theory: navigate a gloomy labyrinth, avoid guards who have
 
 ---
 
-## Controls
+## 🎮 How to play
 
 Controls are the usual suspects:
 
