@@ -1,25 +1,17 @@
 # Prison-Break
-A maze-escape game built in Java using Processing. Unlike the hit FOX series of the same name, there are no cool tattoos, no dramatic conspiracies, and — tragically — no budget for Wentworth Miller.
+A maze-escape game built in Java using Processing. Special thx to Wentworth Miller.
 
 <img width="750" height="600" alt="image" src="https://github.com/user-attachments/assets/4e29befa-acff-485f-b5b2-81400dd16a1e" />
-
-Instead, you play as a pixel-sized Michael Scofield armed with nothing but a flickering lighter and a questionable sense of direction.
-
-The task is simple in theory: navigate a gloomy labyrinth, avoid guards who have nothing better to do, and reach the exit in the bottom-right corner. In practice, you’ll find yourself colliding with walls, running headfirst into policemen, and questioning is there more danger?
 
 ---
 
 ## 🎮 How to play
 
-Controls are the usual suspects:
+Controls:
 
 * **WASD / Arrow Keys** → Move
-* **P** → Pause (when the stress becomes too much)
+* **P** → Pause
 
 For the *adventurous*:
 
-* **Hard Mode** → Doubles your speed *and* the guard patrols, because apparently you weren’t suffering enough already.
-
----
-
-Play it for the atmosphere, stay for the frustration. Scofield would be proud. *Probably.*
+* **Hard Mode** → Doubles your speed *and* the guard patrols.
